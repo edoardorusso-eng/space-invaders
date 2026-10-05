@@ -1,4 +1,4 @@
-# Space Invaders 👾
+# Space Invaders
 
 A simple recreation of the classic **Space Invaders** arcade game, built with **Python** and **Pygame**.
 
