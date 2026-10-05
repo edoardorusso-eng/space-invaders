@@ -6,7 +6,7 @@ This project was created as a small hands-on programming exercise focused on gam
 
 ## Features
 
-- Classic 5 × 11 alien formation
+- Classic 5 x 11 alien formation
 - One player shot on screen at a time
 - Alien return fire
 - 3 player lives
