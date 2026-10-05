@@ -21,10 +21,10 @@ This project was created as a small hands-on programming exercise focused on gam
 
 ## Controls
 
-- `A` — move left
-- `D` — move right
-- `SPACE` — shoot
-- `R` — restart after winning or losing
+- `A` - move left
+- `D` - move right
+- `SPACE` - shoot
+- `R` - restart after winning or losing
 
 ## Scoring
 
